@@ -1,3 +1,5 @@
+#### 中文版本 | [English Version](README_en.md)
+
 ### 一、门户 OpenAPI 说明
 BSN-DDC 基础网络门户 OpenAPI 是 BSN 联盟面向平台方开放的一套官方 DDC 管理服务接口，不包含官方门户（ddc.bsnbase.com)内的 “业务开通”、“资金账户充值/提现” 操作。
 
